@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+langchain
+langgraph
+openai
+pydantic
+python-dotenv
+tqdm
+httpx
+typing-extensions
